@@ -1,0 +1,131 @@
+* {
+	font-size: 0.97em;
+	color:#444;
+	font-family: arial, sans-serif;
+}
+
+#header {
+	padding: 0px 25px;
+
+	
+}
+
+#header li {
+	padding: 8px 5px 0px 5px;
+	margin: 0px 3px;
+	display: inline;
+		float:right;
+}
+
+a {
+	text-decoration: none;	
+}
+
+
+#header #littleIcon table td {
+	position: relative;
+	top:-3px;
+	padding-top: -5px;
+	background-color: #444;
+	height: 2px;
+	width: 2px;
+}
+
+#header li span {
+	font-weight: bold;
+	border-radius: 5%;
+	background-color: #4387fd;
+	color:#fff;
+	padding: 8px 13px 8px 13px;
+}
+
+#center { 
+	padding-top: 175px;
+	margin-bottom: 20px;
+	text-align: center;
+	position: relative;
+	width: 270px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#center img {
+	height: 95px;
+	
+}
+
+#center span {
+	position: absolute;
+	bottom: 10px;
+	color: #777;
+	font-size: 1.1em;
+	font-weight: bold;
+	right: 0px;
+}
+
+#center2 {
+	text-align: center;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+form {
+	width:572px;
+	margin-top: 5;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+input {
+	border 1px solid #4387fd;
+	width: 552px;
+	padding-top: 7px;
+	font-size:15px;
+}
+
+#buttons input {
+	width: 110px;
+	padding: 2px 15px 2px 15px;
+	margin: 10px 5px 10px 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color:#444;
+	font-weight: bold;
+	font-size: 0.8em;
+	text-align: center;
+}
+
+#special {
+	padding-top: 30px;
+	text-align: center;	
+}
+
+#special img {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#footer {
+	position: absolute;
+	bottom: 0;
+	width: 99%;
+	height: 35px;
+	background-color: #F2F2F2;	
+	display: inline;
+	font-size: 0.9em;
+	color:#444;
+	border: 2px solid #F2F2F2;
+}
+
+#footer #left p{
+	float: left;
+	margin: 10px 15px 10px 15px;
+	
+}
+
+#footer #right p{
+	float: right;
+	margin: 10px 15px 10px 15px;
+	
+}
